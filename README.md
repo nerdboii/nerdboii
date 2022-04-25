@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nerdboii
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning Front End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: poseidon21th2@gmail.com
 
